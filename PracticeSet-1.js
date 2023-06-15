@@ -34,9 +34,6 @@ const dict = {
   yakka:"work, especially hard work.",
   aver:"to assert or affirm with confidance"
 }
-console.log(dict['yakka'])
+console.log(dict['yakka']);
   
-  
-  
-  
-  
+   
